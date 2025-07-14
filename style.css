@@ -4,8 +4,8 @@
 /* Style the entire body of the webpage */
 body {
   font-family: 'Roboto', sans-serif;  /* Set the font to Roboto, with sans-serif as backup */
-  background-color: #ffffff;          /* Set background color to white */
-  color: #111;                        /* Set text color to dark gray (almost black) */
+  background-color: #000000;          /* Set background color to black */
+  color: #ffffff;                     /* Set text color to white */
   margin: 0;                          /* Remove default spacing around the body */
   padding: 0;                         /* Remove default internal spacing */
 }
@@ -93,7 +93,7 @@ p {
   font-size: 16px;                    /* Set font size to 16 pixels */
   line-height: 1.6;                   /* Set space between lines to 1.6 times the font size */
   margin-bottom: 24px;                /* Add 24 pixels of space below each paragraph */
-  color: #111;                        /* Set text color to dark gray (almost black) */
+  color: #ffffff;                     /* Set text color to white */
 }
 
 /* Style for our interactive button */
